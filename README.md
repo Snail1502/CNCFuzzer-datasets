@@ -1,9 +1,3 @@
-# CNCFuzzer-datasets
-
-好的 👍 下面给您一个适合 **研究数据集发布** 的 README 模板，结构清晰，便于其他研究者快速理解和使用 CNCFuzzer 数据集。您可以根据实际情况填充内容：
-
-------
-
 # CNCFuzzer Dataset
 
 ## Overview
